@@ -114,7 +114,7 @@ button:hover {
 }
 
 .gamecontainer {
-
+    height: calc(100vh - (75px + 25px)); : /* NO */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -182,7 +182,7 @@ button:hover {
 
   .pxyinput {
     width: 600px;
-    height: 50px;
+    height: 0px; /*50 */
     margin: 10px;
   }
 
