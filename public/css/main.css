@@ -231,5 +231,5 @@ margin: 5px auto;
   border: none;
   
   height: calc(100vh - 0px);
-  width: calc(100vw - 30px); /* SUS */
+  width: calc(100vw - 0px); /* SUS */
 }
